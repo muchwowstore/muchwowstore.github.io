@@ -13,10 +13,9 @@
     </script>
   </head>
   <body>
-  <div>
-	A preview, while the game is still in progress.	Consider Donating to : DFMhTR3taFWAdUY8kL3T1nqpwxS6xgmUhS
-  </div>
+  
     <div class="webgl-content">
+    <div>A preview, while the game is still in progress.	Consider Donating to : DFMhTR3taFWAdUY8kL3T1nqpwxS6xgmUhS  </div>
       <div id="unityContainer" style="width: 1920px; height: 1080px"></div>
       <div class="footer">
         <div class="webgl-logo"></div>
